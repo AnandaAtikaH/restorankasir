@@ -428,15 +428,15 @@ int nasigoreng = 15000;
 
     private void HAPUSActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HAPUSActionPerformed
         // TODO add your handling code here:
-        JMLNasiGoreng.setText("");
-        JMLAyamBakar.setText("");
-        JMLAyamGoreng.setText("");
-        JMLLeleGoreng.setText("");
-        JMLLeleBakar.setText("");
-        JMLSateAyam.setText("");
-        JMLSateKambing.setText("");
-        JMLSotoAyam.setText("");
-        TXTTotalHarga.setText("");
+//         JMLNasiGoreng.setText("");
+//         JMLAyamBakar.setText("");
+//         JMLAyamGoreng.setText("");
+//         JMLLeleGoreng.setText("");
+//         JMLLeleBakar.setText("");
+//         JMLSateAyam.setText("");
+//         JMLSateKambing.setText("");
+//         JMLSotoAyam.setText("");
+//         TXTTotalHarga.setText("");
     }//GEN-LAST:event_HAPUSActionPerformed
 
     /**
