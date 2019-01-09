@@ -5,12 +5,13 @@
  */
 package kasirrestaurant;
 
+
 /**
  *
  * @author USER
  */
 public class KasirRestaurant {
-
+//aplikasi berbasis website yang memberikan layanan berupa penyimpanan repository secara gratis
     /**
      * @param args the command line arguments
      */
